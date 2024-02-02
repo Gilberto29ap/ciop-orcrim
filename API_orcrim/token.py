@@ -35,15 +35,24 @@ def get_token(token_url=token_url, client_id=client_id, client_secret=client_sec
 
 
 def check_token(token):
+    try:
+        # Decodifica o token. Isso não verifica a assinatura, apenas decodifica o payload
+        decoded_token = jwt.decode(token, options={"verify_signature": False})
 
-  # Decodifica o token. Isso não verifica a assinatura, apenas decodifica o payload
-  decoded_token = jwt.decode(token, options={"verify_signature": False})
-
-  # Verifica se o token expirou
-  exp_time = decoded_token.get('exp')
-  if exp_time and exp_time > time.time():
-      print("O token ainda é válido.")
-      return True
-  else:
-      print("O token expirou.")
-      return False
+        # Verifica se o token expirou
+        exp_time = decoded_token.get('exp')
+        if exp_time and exp_time > time.time():
+            print("O token ainda é válido.")
+            return True
+        else:
+            print("O token expirou.")
+            return False
+    except jwt.DecodeError:
+        print("Erro ao decodificar o token. O token pode estar malformado.")
+        return False
+    except jwt.ExpiredSignatureError:
+        print("O token expirou.")
+        return False
+    except Exception as e:
+        print(f"Erro ao decodificar o token: {str(e)}")
+        return False
