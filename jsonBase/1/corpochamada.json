@@ -1,0 +1,92 @@
+{
+    "message": "string",
+    "filters": {
+      "additionalProp1": {},
+      "additionalProp2": {},
+      "additionalProp3": {}
+    },
+    "errors": [
+      {
+        "status": 0,
+        "detail": "string"
+      }
+    ],
+    "data": [
+      {
+        "idPersonalidade": 66844466994,
+        "nome": "fulano de tal do amapa",
+        "id": "66844466994",
+        "alcunhas": [
+          {
+            "id": 5151516,
+            "alcunha": "amapazeiro",
+            "dataAlcunha": "20/03/2023"
+          }
+        ],
+        "cpfs": [
+          "66844466994"
+        ],
+        "dataNascimento": "20/03/2023",
+        "nomeMae": "manuela",
+        "nomePai": "manoel",
+        "rgs": [
+          {
+            "rg": "51651",
+            "ufRg": {
+              "id": 3,
+              "nome": "AMAPÁ",
+              "sigla": "AP"
+            }
+          }
+        ],
+        "sexo": {
+          "id": 7,
+          "nome": "Masculino"
+        },
+        "obito": "N",
+        "orcrims": [
+          {
+            "id": 230,
+            "nome": "BONDE DO TERROR",
+            "sigla": "BDT"
+          }
+        ],
+        "nacionalidade": {
+          "id": 76,
+          "nome": "Brasil"
+        },
+        "uf": {
+          "id": 3,
+          "nome": "AMAPÁ",
+          "sigla": "AP"
+        },
+        "municipio": {
+          "id": 1600303,
+          "nome": "Macapá",
+          "uf": {
+            "id": 3,
+            "nome": "AMAPÁ",
+            "sigla": "AP"
+          }
+        },
+        "dadosPessoaisOrcrim": [
+          {
+            "id": 131313,
+            "idOrcrim": 230,
+            "nomeOrcrim": "BONDE DO TERROR",
+            "siglaOrcrim": "BDT",
+            "dataInicio": "2023-02-09T14:16:03.684Z",
+            "dataTermino": "2024-02-09T14:16:03.684Z",
+            "dataInicioFormatoString": "",
+            "dataTerminoFormatoString": ""
+          }
+        ],
+        "documentos": [
+         
+        ],
+        "fotosDeRosto": [
+
+        ]
+      }
+    ]
+  }
