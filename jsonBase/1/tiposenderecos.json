@@ -1,0 +1,18 @@
+[
+  {
+    "id": 9,
+    "nome": "Residencial"
+  },
+  {
+    "id": 10,
+    "nome": "Comercial"
+  },
+  {
+    "id": 222,
+    "nome": "Outros (Especifique em Observação)"
+  },
+  {
+    "id": 448,
+    "nome": "TESTE API"
+  }
+]

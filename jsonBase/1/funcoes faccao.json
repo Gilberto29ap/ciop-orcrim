@@ -1,0 +1,3135 @@
+[
+  {
+    "id": 150,
+    "nome": "GERAL DO PROGRESSO",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 151,
+    "nome": "GERAL DO POSTO CULTURAL",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 152,
+    "nome": "GERAL DA RIFA",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 153,
+    "nome": "CAIXA DO COMANDO/FAMÍLIA",
+    "tipoFuncao": {
+      "id": 213,
+      "nome": "Assistencial"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 154,
+    "nome": "GERAL DA RUA",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 155,
+    "nome": "GERAL DA CAPITAL",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 156,
+    "nome": "GERAL DO INTERIOR",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 157,
+    "nome": "GERAL DOS GRAVATAS",
+    "tipoFuncao": {
+      "id": 23,
+      "nome": "Jurídico"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 158,
+    "nome": "GERAL DO PAIOL",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 159,
+    "nome": "FINAL DOS 100%",
+    "tipoFuncao": {
+      "id": 217,
+      "nome": "Drogas"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 160,
+    "nome": "SALVEIROS",
+    "tipoFuncao": {
+      "id": 215,
+      "nome": "Comunicação"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 161,
+    "nome": "PENDRIVE",
+    "tipoFuncao": {
+      "id": 221,
+      "nome": "Tecnologia"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 163,
+    "nome": "GERAL DAS FM",
+    "tipoFuncao": {
+      "id": 217,
+      "nome": "Drogas"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 164,
+    "nome": "SINTONIA FORA DO AR",
+    "tipoFuncao": {
+      "id": 218,
+      "nome": "Execução das Ordens"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 165,
+    "nome": "GERAL DAS TRANCAS",
+    "tipoFuncao": {
+      "id": 213,
+      "nome": "Assistencial"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 166,
+    "nome": "GERAL DA CEBOLA",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 167,
+    "nome": "GERAL DA PUREZA",
+    "tipoFuncao": {
+      "id": 217,
+      "nome": "Drogas"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 189,
+    "nome": "Caixa",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 230,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 58,
+      "nome": "BALA NA CARA",
+      "sigla": "BNC"
+    }
+  },
+  {
+    "id": 231,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 66,
+      "nome": "MATARINDO",
+      "sigla": "MR"
+    }
+  },
+  {
+    "id": 232,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 80,
+      "nome": "OS ABERTOS",
+      "sigla": "OS ABERTOS"
+    }
+  },
+  {
+    "id": 233,
+    "nome": "MEMBROS",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 80,
+      "nome": "OS ABERTOS",
+      "sigla": "OS ABERTOS"
+    }
+  },
+  {
+    "id": 209,
+    "nome": "TESTE",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 229,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 58,
+      "nome": "BALA NA CARA",
+      "sigla": "BNC"
+    }
+  },
+  {
+    "id": 234,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 60,
+      "nome": "OS ALEMAO",
+      "sigla": "OS ALEMAO"
+    }
+  },
+  {
+    "id": 235,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 57,
+      "nome": "OS MANOS",
+      "sigla": "OS MANOS"
+    }
+  },
+  {
+    "id": 236,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 57,
+      "nome": "OS MANOS",
+      "sigla": "OS MANOS"
+    }
+  },
+  {
+    "id": 237,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 61,
+      "nome": "OS TAURAS ",
+      "sigla": "OS TAURAS"
+    }
+  },
+  {
+    "id": 238,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 61,
+      "nome": "OS TAURAS ",
+      "sigla": "OS TAURAS"
+    }
+  },
+  {
+    "id": 239,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 240,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 241,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 69,
+      "nome": "PRIMEIRO COMANDO DO INTERIOR",
+      "sigla": "PCI"
+    }
+  },
+  {
+    "id": 242,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 69,
+      "nome": "PRIMEIRO COMANDO DO INTERIOR",
+      "sigla": "PCI"
+    }
+  },
+  {
+    "id": 243,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 244,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 70,
+      "nome": "TAURA",
+      "sigla": "TAURA"
+    }
+  },
+  {
+    "id": 245,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 59,
+      "nome": "VINTE E SETE",
+      "sigla": "V7"
+    }
+  },
+  {
+    "id": 246,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 70,
+      "nome": "TAURA",
+      "sigla": "TAURA"
+    }
+  },
+  {
+    "id": 247,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 59,
+      "nome": "VINTE E SETE",
+      "sigla": "V7"
+    }
+  },
+  {
+    "id": 269,
+    "nome": "FUNCIONANDO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 289,
+    "nome": "TT",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 309,
+    "nome": "LADRÃO",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 24,
+      "nome": "AMIGOS DOS AMIGOS",
+      "sigla": "ADA"
+    }
+  },
+  {
+    "id": 329,
+    "nome": "ARMEIRO1",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 71,
+      "nome": "PRIMEIRO COMANDO DE VITORIA",
+      "sigla": "PCV"
+    }
+  },
+  {
+    "id": 349,
+    "nome": "OLHEIRO",
+    "tipoFuncao": {
+      "id": 212,
+      "nome": "Assessoria do Comando"
+    },
+    "orcrim": {
+      "id": 130,
+      "nome": "TESTE COMANDOS TEFE ",
+      "sigla": "TF"
+    }
+  },
+  {
+    "id": 350,
+    "nome": "OLHEIRO ",
+    "tipoFuncao": {
+      "id": 212,
+      "nome": "Assessoria do Comando"
+    },
+    "orcrim": {
+      "id": 130,
+      "nome": "TESTE COMANDOS TEFE ",
+      "sigla": "TF"
+    }
+  },
+  {
+    "id": 369,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 24,
+      "nome": "AMIGOS DOS AMIGOS",
+      "sigla": "ADA"
+    }
+  },
+  {
+    "id": 371,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 36,
+      "nome": "COMANDO DA PAZ",
+      "sigla": "CP"
+    }
+  },
+  {
+    "id": 389,
+    "nome": "TESTE NOVO",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 85,
+      "nome": "PRIMEIRA GUERRILHA DO NORTE",
+      "sigla": "PGN"
+    }
+  },
+  {
+    "id": 409,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 429,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 27,
+      "nome": "SINDICATO DO CRIME",
+      "sigla": "SCRN"
+    }
+  },
+  {
+    "id": 430,
+    "nome": "AUXILIAR DO DISCIPLINA GERAL",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 27,
+      "nome": "SINDICATO DO CRIME",
+      "sigla": "SCRN"
+    }
+  },
+  {
+    "id": 431,
+    "nome": "SINTONIA GERAL",
+    "tipoFuncao": {
+      "id": 218,
+      "nome": "Execução das Ordens"
+    },
+    "orcrim": {
+      "id": 27,
+      "nome": "SINDICATO DO CRIME",
+      "sigla": "SCRN"
+    }
+  },
+  {
+    "id": 432,
+    "nome": "DISCIPLINA",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 27,
+      "nome": "SINDICATO DO CRIME",
+      "sigla": "SCRN"
+    }
+  },
+  {
+    "id": 469,
+    "nome": "LINHA DE FRENTE",
+    "tipoFuncao": {
+      "id": 213,
+      "nome": "Assistencial"
+    },
+    "orcrim": {
+      "id": 27,
+      "nome": "SINDICATO DO CRIME",
+      "sigla": "SCRN"
+    }
+  },
+  {
+    "id": 489,
+    "nome": "LADRÃO",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 18,
+      "nome": "UNIAO CRIMINOSA DO AMAPA",
+      "sigla": "UCA"
+    }
+  },
+  {
+    "id": 509,
+    "nome": "MATADOR",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 83,
+      "nome": "PRIMEIRO COMANDO DE ESPERANDINA",
+      "sigla": "PCE"
+    }
+  },
+  {
+    "id": 529,
+    "nome": "MATADOR",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 549,
+    "nome": "TESTE",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 569,
+    "nome": "CORRERIA DA GRAVATA",
+    "tipoFuncao": {
+      "id": 23,
+      "nome": "Jurídico"
+    },
+    "orcrim": {
+      "id": 29,
+      "nome": "BONDE DO MALUCO",
+      "sigla": "BDM"
+    }
+  },
+  {
+    "id": 570,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 96,
+      "nome": "DONA MARIA",
+      "sigla": "DONA MARIA"
+    }
+  },
+  {
+    "id": 609,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 12,
+      "nome": "COMANDO LEAL",
+      "sigla": "CL"
+    }
+  },
+  {
+    "id": 610,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 11,
+      "nome": "PRIMEIRO CRIME REVOLUCIONARIO CATARINENSE ",
+      "sigla": "PCRC"
+    }
+  },
+  {
+    "id": 650,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 16,
+      "nome": "OKAIDA",
+      "sigla": "OKD"
+    }
+  },
+  {
+    "id": 652,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 669,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 190,
+      "nome": "FORÇAS ARMADAS REVOLUCIONÁRIAS DA COLOMBIA",
+      "sigla": "FARC"
+    }
+  },
+  {
+    "id": 670,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 190,
+      "nome": "FORÇAS ARMADAS REVOLUCIONÁRIAS DA COLOMBIA",
+      "sigla": "FARC"
+    }
+  },
+  {
+    "id": 671,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 250,
+      "nome": "CARTEL DO NORTE",
+      "sigla": "CDN"
+    }
+  },
+  {
+    "id": 673,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 674,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 675,
+    "nome": "CONSELHO",
+    "tipoFuncao": {
+      "id": 212,
+      "nome": "Assessoria do Comando"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 676,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 677,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 89,
+      "nome": "FAMILIA DO NORTE",
+      "sigla": "FDN"
+    }
+  },
+  {
+    "id": 679,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 90,
+      "nome": "PRIMEIRO COMANDO DO NORTE",
+      "sigla": "PCN"
+    }
+  },
+  {
+    "id": 689,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 87,
+      "nome": "ANJOS DA MORTE",
+      "sigla": "ADM"
+    }
+  },
+  {
+    "id": 690,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 81,
+      "nome": "PRIMEIRO COMANDO DO MARANHAO",
+      "sigla": "PCM"
+    }
+  },
+  {
+    "id": 729,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 83,
+      "nome": "PRIMEIRO COMANDO DE ESPERANDINA",
+      "sigla": "PCE"
+    }
+  },
+  {
+    "id": 730,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 51,
+      "nome": "BONDE DOS 4",
+      "sigla": "BD4"
+    }
+  },
+  {
+    "id": 731,
+    "nome": "GERAL DA CEBOLA",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 51,
+      "nome": "BONDE DOS 4",
+      "sigla": "BD4"
+    }
+  },
+  {
+    "id": 749,
+    "nome": "DISCIPLINA",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 270,
+      "nome": "TUDO NEUTRO",
+      "sigla": "TDN"
+    }
+  },
+  {
+    "id": 750,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 270,
+      "nome": "TUDO NEUTRO",
+      "sigla": "TDN"
+    }
+  },
+  {
+    "id": 169,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 249,
+    "nome": "ATIRADOR D1",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 24,
+      "nome": "AMIGOS DOS AMIGOS",
+      "sigla": "ADA"
+    }
+  },
+  {
+    "id": 370,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 89,
+      "nome": "FAMILIA DO NORTE",
+      "sigla": "FDN"
+    }
+  },
+  {
+    "id": 449,
+    "nome": "ASSASSINO",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 76,
+      "nome": "AMIGOS DOS ESTADOS",
+      "sigla": "ADE"
+    }
+  },
+  {
+    "id": 589,
+    "nome": "MATADOR",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 84,
+      "nome": "PRIMEIRO COMANDO DE SERGIPE",
+      "sigla": "PCS"
+    }
+  },
+  {
+    "id": 629,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 53,
+      "nome": "MAFIA PARANAENSE",
+      "sigla": "MP"
+    }
+  },
+  {
+    "id": 649,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 75,
+      "nome": "ESTADOS UNIDOS ",
+      "sigla": "EUA"
+    }
+  },
+  {
+    "id": 651,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 55,
+      "nome": "NOVA OKAIDA",
+      "sigla": "OKDRB"
+    }
+  },
+  {
+    "id": 672,
+    "nome": "LIDER",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 250,
+      "nome": "CARTEL DO NORTE",
+      "sigla": "CDN"
+    }
+  },
+  {
+    "id": 678,
+    "nome": "CONSELHO",
+    "tipoFuncao": {
+      "id": 212,
+      "nome": "Assessoria do Comando"
+    },
+    "orcrim": {
+      "id": 89,
+      "nome": "FAMILIA DO NORTE",
+      "sigla": "FDN"
+    }
+  },
+  {
+    "id": 709,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 190,
+      "nome": "FORÇAS ARMADAS REVOLUCIONÁRIAS DA COLOMBIA",
+      "sigla": "FARC"
+    }
+  },
+  {
+    "id": 751,
+    "nome": "LIDERANÇA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 270,
+      "nome": "TUDO NEUTRO",
+      "sigla": "TDN"
+    }
+  },
+  {
+    "id": 752,
+    "nome": "RESUMO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 270,
+      "nome": "TUDO NEUTRO",
+      "sigla": "TDN"
+    }
+  },
+  {
+    "id": 753,
+    "nome": "TORRE",
+    "tipoFuncao": {
+      "id": 218,
+      "nome": "Execução das Ordens"
+    },
+    "orcrim": {
+      "id": 270,
+      "nome": "TUDO NEUTRO",
+      "sigla": "TDN"
+    }
+  },
+  {
+    "id": 754,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 29,
+      "nome": "BONDE DO MALUCO",
+      "sigla": "BDM"
+    }
+  },
+  {
+    "id": 755,
+    "nome": "LIDERANÇA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 29,
+      "nome": "BONDE DO MALUCO",
+      "sigla": "BDM"
+    }
+  },
+  {
+    "id": 756,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 29,
+      "nome": "BONDE DO MALUCO",
+      "sigla": "BDM"
+    }
+  },
+  {
+    "id": 757,
+    "nome": "APOIO EXTERNO",
+    "tipoFuncao": {
+      "id": 212,
+      "nome": "Assessoria do Comando"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 758,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 759,
+    "nome": "FINAL",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 760,
+    "nome": "DISCIPLINA",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 761,
+    "nome": "GERAL DA CAPITAL",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 762,
+    "nome": "GERAL DA REGIONAL",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 763,
+    "nome": "GERAL DA RUA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 764,
+    "nome": "GERAL DE BAIRRO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 765,
+    "nome": "GERAL DO CAIXA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 766,
+    "nome": "GERAL DO ESTADO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 767,
+    "nome": "GERAL DO FEMININO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 768,
+    "nome": "GERAL DO PROGRESSO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 769,
+    "nome": "GERAL DO SISTEMA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 770,
+    "nome": "GERAL DOS CADASTROS",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 771,
+    "nome": "JET",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 772,
+    "nome": "LIDERANÇA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 773,
+    "nome": "LIVRO NEGRO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 774,
+    "nome": "RESUMO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 775,
+    "nome": "RESUMO DA DISCIPLINA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 776,
+    "nome": "TORRE",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 82,
+      "nome": "BONDE DOS 40",
+      "sigla": "BD40"
+    }
+  },
+  {
+    "id": 789,
+    "nome": "LIDERANÇA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 86,
+      "nome": "COMANDO ORGANIZADO DO MARANHAO",
+      "sigla": "COM"
+    }
+  },
+  {
+    "id": 790,
+    "nome": "GERAL DA RIFA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 86,
+      "nome": "COMANDO ORGANIZADO DO MARANHAO",
+      "sigla": "COM"
+    }
+  },
+  {
+    "id": 791,
+    "nome": "LIVRO NEGRO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 86,
+      "nome": "COMANDO ORGANIZADO DO MARANHAO",
+      "sigla": "COM"
+    }
+  },
+  {
+    "id": 792,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 86,
+      "nome": "COMANDO ORGANIZADO DO MARANHAO",
+      "sigla": "COM"
+    }
+  },
+  {
+    "id": 793,
+    "nome": "LIDERANÇA GERAL",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 794,
+    "nome": "LIDERANÇA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 795,
+    "nome": "GERAL DO FEMININO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 796,
+    "nome": "TORRE",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 797,
+    "nome": "DISCIPLINA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 798,
+    "nome": "GERAL DO CAIXA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 23,
+      "nome": "COMANDO VERMELHO",
+      "sigla": "CV"
+    }
+  },
+  {
+    "id": 799,
+    "nome": "LIDERANÇA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 89,
+      "nome": "FAMILIA DO NORTE",
+      "sigla": "FDN"
+    }
+  },
+  {
+    "id": 800,
+    "nome": "APOIO EXTERNO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 801,
+    "nome": "ESPORTE",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 802,
+    "nome": "GERAL DA REGIONAL",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 803,
+    "nome": "GERAL DE IMPERATRIZ",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 804,
+    "nome": "GERAL DO 100%",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 805,
+    "nome": "GERAL DO CAIXA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 806,
+    "nome": "GERAL DO CAIXA DO ESTADO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 807,
+    "nome": "LIDERANÇA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 808,
+    "nome": "SALVEIRO DO ESTADO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 809,
+    "nome": "SETOR DE AJUDAS",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 810,
+    "nome": "SINTONIA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 811,
+    "nome": "SINTONIA DOS ESTADOS E PAÍSES",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 813,
+    "nome": "DISCIPLINA",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 81,
+      "nome": "PRIMEIRO COMANDO DO MARANHAO",
+      "sigla": "PCM"
+    }
+  },
+  {
+    "id": 814,
+    "nome": "LIDERANÇA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 81,
+      "nome": "PRIMEIRO COMANDO DO MARANHAO",
+      "sigla": "PCM"
+    }
+  },
+  {
+    "id": 815,
+    "nome": "TORRE",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 81,
+      "nome": "PRIMEIRO COMANDO DO MARANHAO",
+      "sigla": "PCM"
+    }
+  },
+  {
+    "id": 829,
+    "nome": "LIDERANCA",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 27,
+      "nome": "SINDICATO DO CRIME",
+      "sigla": "SCRN"
+    }
+  },
+  {
+    "id": 849,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 37,
+      "nome": "KATIARA",
+      "sigla": "KATIARA"
+    }
+  },
+  {
+    "id": 869,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 290,
+      "nome": "CARTEL DE JUAREZ",
+      "sigla": "MEX"
+    }
+  },
+  {
+    "id": 870,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 291,
+      "nome": "CARTEL DE JUAREZ",
+      "sigla": "MEX"
+    }
+  },
+  {
+    "id": 871,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 292,
+      "nome": "COMANDO SOL NASCENTE",
+      "sigla": "CSN"
+    }
+  },
+  {
+    "id": 872,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 293,
+      "nome": "FACÇÃO TREM BALA",
+      "sigla": "FTB"
+    }
+  },
+  {
+    "id": 873,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 294,
+      "nome": "FAROESTE CABOCLO",
+      "sigla": "FC"
+    }
+  },
+  {
+    "id": 874,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 295,
+      "nome": "JALISCO NEW GENERATION",
+      "sigla": "MEX"
+    }
+  },
+  {
+    "id": 875,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 296,
+      "nome": "MAFIA NIGERIANA",
+      "sigla": "MN"
+    }
+  },
+  {
+    "id": 876,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 297,
+      "nome": "NDRANGHETA",
+      "sigla": "NDR"
+    }
+  },
+  {
+    "id": 877,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 299,
+      "nome": "PAZ, LIBERDADE E DIREITO",
+      "sigla": "PLD"
+    }
+  },
+  {
+    "id": 878,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 298,
+      "nome": "PAZ, LIBERDADE E JUSTIÇA",
+      "sigla": "PLJ"
+    }
+  },
+  {
+    "id": 879,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 300,
+      "nome": "PRIMEIRO COMANDO DA ESTÂNCIA 5",
+      "sigla": "PCE"
+    }
+  },
+  {
+    "id": 100,
+    "nome": "AUXILIAR DA CENTRAL DE CRÉDITO",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 101,
+    "nome": "AUXILIAR DO CONSELHO",
+    "tipoFuncao": {
+      "id": 212,
+      "nome": "Assessoria do Comando"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 102,
+    "nome": "AUXILIAR DO DISCIPLINA GERAL",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 103,
+    "nome": "AUXILIAR GERAL SINTONIA",
+    "tipoFuncao": {
+      "id": 215,
+      "nome": "Comunicação"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 104,
+    "nome": "CADASTRO",
+    "tipoFuncao": {
+      "id": 214,
+      "nome": "Cadastral"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 105,
+    "nome": "CENTRAL DE CRÉDITO",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 106,
+    "nome": "CONSELHO",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 107,
+    "nome": "DISCIPLINA DO DÍZIMO",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 108,
+    "nome": "DISCIPLINA GERAL",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 109,
+    "nome": "DISCIPLINA GERAL DA CIDADE",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 110,
+    "nome": "DIZIMISTA",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 111,
+    "nome": "GERAL CAIXA",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 112,
+    "nome": "GERAL DA CENTRAL DE CRÉDITO",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 113,
+    "nome": "GERAL DA SINTONIA",
+    "tipoFuncao": {
+      "id": 215,
+      "nome": "Comunicação"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 114,
+    "nome": "GERAL DAS ARMAS",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 115,
+    "nome": "GERAL DAS DROGAS",
+    "tipoFuncao": {
+      "id": 217,
+      "nome": "Drogas"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 116,
+    "nome": "GERAL DO DÍZIMO",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 117,
+    "nome": "GERAL DO RIGOR",
+    "tipoFuncao": {
+      "id": 23,
+      "nome": "Jurídico"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 118,
+    "nome": "GERAL DOS GRAVATA",
+    "tipoFuncao": {
+      "id": 23,
+      "nome": "Jurídico"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 119,
+    "nome": "GERAL FEMININA",
+    "tipoFuncao": {
+      "id": 218,
+      "nome": "Execução das Ordens"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 120,
+    "nome": "GRAVATA",
+    "tipoFuncao": {
+      "id": 23,
+      "nome": "Jurídico"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 121,
+    "nome": "REPRESENTANTE PRIMEIRO MINISTÉRIO",
+    "tipoFuncao": {
+      "id": 211,
+      "nome": "2ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 122,
+    "nome": "REPRESENTANTE SEGUNDO MINISTÉRIO",
+    "tipoFuncao": {
+      "id": 211,
+      "nome": "2ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 123,
+    "nome": "RESPONSÁVEL PELO MORRO",
+    "tipoFuncao": {
+      "id": 218,
+      "nome": "Execução das Ordens"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 124,
+    "nome": "SINTONIA",
+    "tipoFuncao": {
+      "id": 215,
+      "nome": "Comunicação"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 125,
+    "nome": "SINTONIA GERAL",
+    "tipoFuncao": {
+      "id": 215,
+      "nome": "Comunicação"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 126,
+    "nome": "TORRE",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 127,
+    "nome": "SINTONIA DOS GRAVATA",
+    "tipoFuncao": {
+      "id": 23,
+      "nome": "Jurídico"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 128,
+    "nome": "AUXILIAR DISCIPLINA",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 129,
+    "nome": "AUXILIAR SINTONIA",
+    "tipoFuncao": {
+      "id": 215,
+      "nome": "Comunicação"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 130,
+    "nome": "AUXILIAR SINTONIA GERAL",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 131,
+    "nome": "AUXILIAR GERAL CAIXA",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 132,
+    "nome": "AUXILIAR GERAL DAS ARMAS",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 133,
+    "nome": "AUXILIAR GERAL DAS DROGAS",
+    "tipoFuncao": {
+      "id": 217,
+      "nome": "Drogas"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 134,
+    "nome": "AUXILIAR GERAL DO RIGOR",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 135,
+    "nome": "AUXILIAR GERAL DOS GRAVATAS",
+    "tipoFuncao": {
+      "id": 23,
+      "nome": "Jurídico"
+    },
+    "orcrim": {
+      "id": 10,
+      "nome": "PRIMEIRO GRUPO CATARINENSE ",
+      "sigla": "PGC"
+    }
+  },
+  {
+    "id": 136,
+    "nome": "CHEFIA GERAL",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 137,
+    "nome": "FINAL",
+    "tipoFuncao": {
+      "id": 211,
+      "nome": "2ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 138,
+    "nome": "GERAL DOS ESTADOS",
+    "tipoFuncao": {
+      "id": 211,
+      "nome": "2ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 139,
+    "nome": "RESUMO",
+    "tipoFuncao": {
+      "id": 210,
+      "nome": "1ª Linha de Comando"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 140,
+    "nome": "GERAL DO SISTEMA",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 141,
+    "nome": "GERAL DO FEMININO",
+    "tipoFuncao": {
+      "id": 218,
+      "nome": "Execução das Ordens"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 142,
+    "nome": "GERAL DAS COLÔNIAS",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 143,
+    "nome": "GERAL DO PRESÍDIO",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 144,
+    "nome": "JET",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 145,
+    "nome": "DISCIPLINA",
+    "tipoFuncao": {
+      "id": 218,
+      "nome": "Execução das Ordens"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 146,
+    "nome": "GERAL DOS CADASTROS",
+    "tipoFuncao": {
+      "id": 214,
+      "nome": "Cadastral"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 147,
+    "nome": "LIVRO BRANCO",
+    "tipoFuncao": {
+      "id": 214,
+      "nome": "Cadastral"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 148,
+    "nome": "LIVRO NEGRO",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 149,
+    "nome": "LIVRO DO PRAZO",
+    "tipoFuncao": {
+      "id": 216,
+      "nome": "Disciplinar"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 882,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 91,
+      "nome": "COMANDO MORTE MALDICAO",
+      "sigla": "CMM"
+    }
+  },
+  {
+    "id": 1109,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 150,
+      "nome": "ASASAS",
+      "sigla": "ASASA"
+    }
+  },
+  {
+    "id": 1189,
+    "nome": "MATADOR",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 76,
+      "nome": "AMIGOS DOS ESTADOS",
+      "sigla": "ADE"
+    }
+  },
+  {
+    "id": 909,
+    "nome": "TESTE API",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 1129,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 14,
+      "nome": "BONDE DOS CACHORROS",
+      "sigla": "BDC"
+    }
+  },
+  {
+    "id": 1210,
+    "nome": "INTELIGENTE",
+    "tipoFuncao": {
+      "id": 22,
+      "nome": "Inteligência"
+    },
+    "orcrim": {
+      "id": 76,
+      "nome": "AMIGOS DOS ESTADOS",
+      "sigla": "ADE"
+    }
+  },
+  {
+    "id": 881,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 92,
+      "nome": "COMBOIO DO CAO",
+      "sigla": "CDC"
+    }
+  },
+  {
+    "id": 883,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 33,
+      "nome": "COMANDO BALA VOA",
+      "sigla": "CBV"
+    }
+  },
+  {
+    "id": 889,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 76,
+      "nome": "AMIGOS DOS ESTADOS",
+      "sigla": "ADE"
+    }
+  },
+  {
+    "id": 930,
+    "nome": "DISCIPLINA DA REGIONAL",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 949,
+    "nome": "API 43",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 969,
+    "nome": "API SPRINT 44",
+    "tipoFuncao": {
+      "id": 22,
+      "nome": "Inteligência"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 1015,
+    "nome": "CADASTRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  },
+  {
+    "id": 812,
+    "nome": "TORRE",
+    "tipoFuncao": {
+      "id": 24,
+      "nome": "Administrativo"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 1069,
+    "nome": "CONSELHEIROS",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  },
+  {
+    "id": 1089,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 26,
+      "nome": "MILICIA ",
+      "sigla": "ML"
+    }
+  },
+  {
+    "id": 910,
+    "nome": "TESTE API",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 932,
+    "nome": "SALVEIRO DO FEMININO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 1010,
+    "nome": "TORRE",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  },
+  {
+    "id": 1149,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 71,
+      "nome": "PRIMEIRO COMANDO DE VITORIA",
+      "sigla": "PCV"
+    }
+  },
+  {
+    "id": 880,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 27,
+      "nome": "SINDICATO DO CRIME",
+      "sigla": "SCRN"
+    }
+  },
+  {
+    "id": 989,
+    "nome": "API SPRINT 44",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 1011,
+    "nome": "GERAL DO INTERIOR",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  },
+  {
+    "id": 1012,
+    "nome": "GERAL DA RUA",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  },
+  {
+    "id": 1029,
+    "nome": "TESTE API FUNÇÃO",
+    "tipoFuncao": {
+      "id": 449,
+      "nome": "TESTE API"
+    },
+    "orcrim": {
+      "id": 87,
+      "nome": "ANJOS DA MORTE",
+      "sigla": "ADM"
+    }
+  },
+  {
+    "id": 1049,
+    "nome": "GERAL DE BAIRRO",
+    "tipoFuncao": {
+      "id": 219,
+      "nome": "Financeiro"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  },
+  {
+    "id": 1169,
+    "nome": "MATADOR",
+    "tipoFuncao": {
+      "id": 21,
+      "nome": "Armamento/Bélico"
+    },
+    "orcrim": {
+      "id": 95,
+      "nome": "BONDE DO TERROR",
+      "sigla": "BONDE DO TERROR"
+    }
+  },
+  {
+    "id": 1211,
+    "nome": "INTELIGENTE",
+    "tipoFuncao": {
+      "id": 22,
+      "nome": "Inteligência"
+    },
+    "orcrim": {
+      "id": 370,
+      "nome": "AAA TESTE 3",
+      "sigla": "AAA"
+    }
+  },
+  {
+    "id": 890,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  },
+  {
+    "id": 929,
+    "nome": "GERAL DO PROGRESSO FORA DO AR",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 931,
+    "nome": "GERAL DA TRANCA",
+    "tipoFuncao": {
+      "id": 221,
+      "nome": "Tecnologia"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 933,
+    "nome": "DISCIPLINA DA REGIONAL",
+    "tipoFuncao": {
+      "id": 218,
+      "nome": "Execução das Ordens"
+    },
+    "orcrim": {
+      "id": 13,
+      "nome": "PRIMEIRO COMANDO DA CAPITAL",
+      "sigla": "PCC"
+    }
+  },
+  {
+    "id": 1013,
+    "nome": "AUXILIAR DO DISCIPLINA GERAL",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  },
+  {
+    "id": 1209,
+    "nome": "DISCIPLINA DOS GRAVATAS",
+    "tipoFuncao": {
+      "id": 23,
+      "nome": "Jurídico"
+    },
+    "orcrim": {
+      "id": 109,
+      "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+      "sigla": "AFT"
+    }
+  },
+  {
+    "id": 1009,
+    "nome": "MEMBRO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 19,
+      "nome": "FAMILIA TERROR DO AMAPA",
+      "sigla": "FTA"
+    }
+  },
+  {
+    "id": 1014,
+    "nome": "CONSELHO",
+    "tipoFuncao": {
+      "id": 220,
+      "nome": "Outros (Especifique em Observação)"
+    },
+    "orcrim": {
+      "id": 21,
+      "nome": "BONDE DOS TREZE",
+      "sigla": "B13"
+    }
+  }
+]
