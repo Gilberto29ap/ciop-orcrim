@@ -94,3 +94,31 @@ class TokenManager:
         else:
             return self.token_data['access_token']
 
+<<<<<<< HEAD
+  # Verifica se o token expirou
+  exp_time = decoded_token.get('exp')
+  if exp_time and exp_time > time.time():
+      print("O token ainda é válido.")
+      return True
+  else:
+      print("O token expirou.")
+      return False
+  
+
+
+
+def autentica(token):
+    if check_token(token):
+        print("Token válido, prosseguindo!")
+        return token
+    else:
+        print("Token não válido.")
+        token = get_token()
+        if check_token(token):
+            print("Novo token válido, prosseguindo!")
+            return token
+        else:
+            print("Falha ao obter um token válido. Por favor, tente novamente.")
+            return None
+=======
+>>>>>>> 4016963059ec5fe0c29435525b5ae33fb76ebfe2
