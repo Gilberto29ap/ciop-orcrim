@@ -1,0 +1,842 @@
+[
+  {
+    "id": 230,
+    "nome": "BONDE DO TERROR",
+    "sigla": "BDT",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 292,
+    "nome": "COMANDO SOL NASCENTE",
+    "sigla": "CSN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 294,
+    "nome": "FAROESTE CABOCLO",
+    "sigla": "FC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 295,
+    "nome": "JALISCO NEW GENERATION",
+    "sigla": "MEX",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 296,
+    "nome": "MAFIA NIGERIANA",
+    "sigla": "MN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 297,
+    "nome": "NDRANGHETA",
+    "sigla": "NDR",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 300,
+    "nome": "PRIMEIRO COMANDO DA ESTÂNCIA 5",
+    "sigla": "PCE",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 350,
+    "nome": "TESTE LOG",
+    "sigla": "LOG",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 411,
+    "nome": "ORCRIM TESTE",
+    "sigla": "OT",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 436,
+    "nome": "CARTEL DO CRIME HEDIONDO III",
+    "sigla": "CCHIII",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 451,
+    "nome": "TESTE II 23 04 2023",
+    "sigla": "TSR",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 470,
+    "nome": "TESTE NOVA 25/04/2023",
+    "sigla": "TN 25/04/2023",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 110,
+    "nome": "TESTETSTE",
+    "sigla": "TESTTESTET",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 290,
+    "nome": "CARTEL DE JUAREZ",
+    "sigla": "MEX",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 293,
+    "nome": "FACÇÃO TREM BALA",
+    "sigla": "FTB",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 298,
+    "nome": "PAZ, LIBERDADE E JUSTIÇA",
+    "sigla": "PLJ",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 299,
+    "nome": "PAZ, LIBERDADE E DIREITO",
+    "sigla": "PLD",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 410,
+    "nome": "IRMAOS DO CRIME",
+    "sigla": "ICRIM",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 430,
+    "nome": "CARTEL DA OCI 19",
+    "sigla": "OCI19",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 433,
+    "nome": "CARTEL DO CHOPP BR",
+    "sigla": "CHOPP BR",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 434,
+    "nome": "CARTEL DO CRIME HEDIONDO",
+    "sigla": "CCH",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 435,
+    "nome": "CARTEL DO CRIME HEDIONDO II",
+    "sigla": "CCHII",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 438,
+    "nome": "CARTEL DO CRIME HEDIONDO VI",
+    "sigla": "CCHVI",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 490,
+    "nome": "ORCRIM DO PAGODE",
+    "sigla": "ORPAG",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 412,
+    "nome": "NOVA ORCRIM",
+    "sigla": "NO",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 170,
+    "nome": "GLOSSARIO ORCRIM",
+    "sigla": "GO",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 330,
+    "nome": "TERCEIRO COMANDO DO AMAPÁ",
+    "sigla": "TCA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 106,
+    "nome": "PAULO TG",
+    "sigla": "PAULO TG",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 107,
+    "nome": "MATAR, VINGAR E LIBERTAR",
+    "sigla": "MLV",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 108,
+    "nome": "K2",
+    "sigla": "K2",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 109,
+    "nome": "ALCATEIA TRIPLICE FRONTEIRA ",
+    "sigla": "AFT",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 130,
+    "nome": "TESTE COMANDOS TEFE ",
+    "sigla": "TF",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 6,
+    "nome": "Não Informado",
+    "sigla": "NI",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 10,
+    "nome": "PRIMEIRO GRUPO CATARINENSE ",
+    "sigla": "PGC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 11,
+    "nome": "PRIMEIRO CRIME REVOLUCIONARIO CATARINENSE ",
+    "sigla": "PCRC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 12,
+    "nome": "COMANDO LEAL",
+    "sigla": "CL",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 13,
+    "nome": "PRIMEIRO COMANDO DA CAPITAL",
+    "sigla": "PCC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 14,
+    "nome": "BONDE DOS CACHORROS",
+    "sigla": "BDC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 15,
+    "nome": "FAMILIA DEMONIOS DA ILHA",
+    "sigla": "FDI",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 16,
+    "nome": "OKAIDA",
+    "sigla": "OKD",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 17,
+    "nome": "AMIGOS PARA SEMPRE",
+    "sigla": "APS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 18,
+    "nome": "UNIAO CRIMINOSA DO AMAPA",
+    "sigla": "UCA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 19,
+    "nome": "FAMILIA TERROR DO AMAPA",
+    "sigla": "FTA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 20,
+    "nome": "FAMILIA DO AMAPA",
+    "sigla": "FDA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 21,
+    "nome": "BONDE DOS TREZE",
+    "sigla": "B13",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 22,
+    "nome": "IRMANDADE FORCA ATIVA RESPONSABILIDADE ACREANA",
+    "sigla": "IFARA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 23,
+    "nome": "COMANDO VERMELHO",
+    "sigla": "CV",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 24,
+    "nome": "AMIGOS DOS AMIGOS",
+    "sigla": "ADA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 25,
+    "nome": "TERCEIRO COMANDO PURO",
+    "sigla": "TCP",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 26,
+    "nome": "MILICIA ",
+    "sigla": "ML",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 27,
+    "nome": "SINDICATO DO CRIME",
+    "sigla": "SCRN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 28,
+    "nome": "CAVEIRAS DE MOSSORO",
+    "sigla": "CAVEIRAS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 29,
+    "nome": "BONDE DO MALUCO",
+    "sigla": "BDM",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 30,
+    "nome": "CAVEIRA ",
+    "sigla": "CAVEIRA ",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 31,
+    "nome": "MERCADO POVO ATITUDE",
+    "sigla": "MPA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 32,
+    "nome": "DANIEL GOMES, MARIA PINHEIRO E PAU CAIDO",
+    "sigla": "DMP",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 33,
+    "nome": "COMANDO BALA VOA",
+    "sigla": "CBV",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 34,
+    "nome": "BONDE DO NEGUINHO",
+    "sigla": "BDN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 35,
+    "nome": "RAIO B",
+    "sigla": "RAIO B",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 36,
+    "nome": "COMANDO DA PAZ",
+    "sigla": "CP",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 37,
+    "nome": "KATIARA",
+    "sigla": "KATIARA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 38,
+    "nome": "RAIO A",
+    "sigla": "RAIO A",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 39,
+    "nome": "PRIMEIRO COMANDO DE EUNAPOLIS",
+    "sigla": "PCE",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 40,
+    "nome": "ORDEM E PROGRESSO",
+    "sigla": "OP",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 41,
+    "nome": "RR DOIDEIRA",
+    "sigla": "RR DOIDEIRA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 42,
+    "nome": "NEM BOMBA",
+    "sigla": "NEM BOMBA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 43,
+    "nome": "COMANDO REVOLUCIONARIO BRASILEIRO DA CRIMINALIDADE",
+    "sigla": "CRBC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 44,
+    "nome": "COMANDO TERRORISTA DE MINAS GERAIS",
+    "sigla": "CTMG",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 45,
+    "nome": "FAMILIA MONSTRO",
+    "sigla": "FM OU MONSTRO",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 46,
+    "nome": "IRMAOS DOS IRMAOS",
+    "sigla": "IDI",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 47,
+    "nome": "PRIMEIRO COMANDO DO BETEL",
+    "sigla": "PCBBTEL",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 48,
+    "nome": "PRIMEIRO COMANDO DE BELO HORIZONTE",
+    "sigla": "PCBBH",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 49,
+    "nome": "PRIMEIRO COMANDO DO JARDINS ",
+    "sigla": "PCJ",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 50,
+    "nome": "PRIMEIRO COMANDO VILA PINTO",
+    "sigla": "PCVP",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 51,
+    "nome": "BONDE DOS 4",
+    "sigla": "BD4",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 53,
+    "nome": "MAFIA PARANAENSE",
+    "sigla": "MP",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 54,
+    "nome": "GANGUE DO FERRO VELHO",
+    "sigla": "GANGUE DO FERRO VELHO",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 55,
+    "nome": "NOVA OKAIDA",
+    "sigla": "OKDRB",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 56,
+    "nome": "BONDE DO AJEITHA",
+    "sigla": "BDA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 57,
+    "nome": "OS MANOS",
+    "sigla": "OS MANOS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 58,
+    "nome": "BALA NA CARA",
+    "sigla": "BNC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 59,
+    "nome": "VINTE E SETE",
+    "sigla": "V7",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 60,
+    "nome": "OS ALEMAO",
+    "sigla": "OS ALEMAO",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 61,
+    "nome": "OS TAURAS ",
+    "sigla": "OS TAURAS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 62,
+    "nome": "COMANDO PELO CERTO",
+    "sigla": "CPC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 63,
+    "nome": "FARRAPOS",
+    "sigla": "FARRAPOS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 64,
+    "nome": "UNIDOS PELA PAZ",
+    "sigla": "UNIDOS PELA PAZ",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 65,
+    "nome": "VANDALOS",
+    "sigla": "VANDALOS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 66,
+    "nome": "MATARINDO",
+    "sigla": "MR",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 67,
+    "nome": "GRUPO K2",
+    "sigla": "GRUPO K2",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 68,
+    "nome": "GRUPO CEBOLAS",
+    "sigla": "CEBOLAS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 69,
+    "nome": "PRIMEIRO COMANDO DO INTERIOR",
+    "sigla": "PCI",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 70,
+    "nome": "TAURA",
+    "sigla": "TAURA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 71,
+    "nome": "PRIMEIRO COMANDO DE VITORIA",
+    "sigla": "PCV",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 72,
+    "nome": "COMANDO CLASSE A",
+    "sigla": "CCA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 73,
+    "nome": "GUARDIOES DO ESTADO",
+    "sigla": "GDE",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 74,
+    "nome": "BONDE DO CANGACO",
+    "sigla": "BONDE DO CANGACO",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 75,
+    "nome": "ESTADOS UNIDOS ",
+    "sigla": "EUA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 76,
+    "nome": "AMIGOS DOS ESTADOS",
+    "sigla": "ADE",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 77,
+    "nome": "BONDE DOS CRIA",
+    "sigla": "BONDE DOS CRIA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 78,
+    "nome": "BONDE DO OSAMA",
+    "sigla": "BONDE DO OSAMA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 79,
+    "nome": "CONCEICAO",
+    "sigla": "CONCEICAO",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 80,
+    "nome": "OS ABERTOS",
+    "sigla": "OS ABERTOS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 81,
+    "nome": "PRIMEIRO COMANDO DO MARANHAO",
+    "sigla": "PCM",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 82,
+    "nome": "BONDE DOS 40",
+    "sigla": "BD40",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 83,
+    "nome": "PRIMEIRO COMANDO DE ESPERANDINA",
+    "sigla": "PCE",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 84,
+    "nome": "PRIMEIRO COMANDO DE SERGIPE",
+    "sigla": "PCS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 85,
+    "nome": "PRIMEIRA GUERRILHA DO NORTE",
+    "sigla": "PGN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 86,
+    "nome": "COMANDO ORGANIZADO DO MARANHAO",
+    "sigla": "COM",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 87,
+    "nome": "ANJOS DA MORTE",
+    "sigla": "ADM",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 88,
+    "nome": "BONDE DOS 300",
+    "sigla": "B300",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 89,
+    "nome": "FAMILIA DO NORTE",
+    "sigla": "FDN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 90,
+    "nome": "PRIMEIRO COMANDO DO NORTE",
+    "sigla": "PCN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 91,
+    "nome": "COMANDO MORTE MALDICAO",
+    "sigla": "CMM",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 92,
+    "nome": "COMBOIO DO CAO",
+    "sigla": "CDC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 93,
+    "nome": "BONDE DOS GEMEOS",
+    "sigla": "BONDE DOS GEMEOS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 94,
+    "nome": "PRIMEIRO COMANDO DO PANDA",
+    "sigla": "PCP",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 95,
+    "nome": "BONDE DO TERROR",
+    "sigla": "BONDE DO TERROR",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 96,
+    "nome": "DONA MARIA",
+    "sigla": "DONA MARIA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 97,
+    "nome": "COMANDO BRASILEIRO REVOLUCIONARIO DA CRIMINALIDADE",
+    "sigla": "CRBC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 98,
+    "nome": "COMANDO DEMOCRATICO DA LIBERDADE",
+    "sigla": "CDL",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 99,
+    "nome": "TERCEIRO COMANDO DA CAPITAL",
+    "sigla": "TCC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 100,
+    "nome": "SEITA SATANICA",
+    "sigla": "SS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 101,
+    "nome": "SOCIEDADE ANONIMA",
+    "sigla": "AS",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 102,
+    "nome": "COMANDO JOVEM VERMELHO DA CRIMINALIDADE",
+    "sigla": "CJVC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 103,
+    "nome": "SEGUNDO COMANDO DA CAPITAL",
+    "sigla": "SCC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 104,
+    "nome": "PRIMEIRO COMANDO PURO",
+    "sigla": "PCP",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 105,
+    "nome": "CEROL FINO",
+    "sigla": "CEROL FINO",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 210,
+    "nome": "CLUBE DO CRIME",
+    "sigla": "CB",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 250,
+    "nome": "CARTEL DO NORTE",
+    "sigla": "CDN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 270,
+    "nome": "TUDO NEUTRO",
+    "sigla": "TDN",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 310,
+    "nome": "TESTE API",
+    "sigla": "TESTE API",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 370,
+    "nome": "AAA TESTE 3",
+    "sigla": "AAA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 390,
+    "nome": "SPRINT 55",
+    "sigla": "SP 55",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 150,
+    "nome": "ASASAS",
+    "sigla": "ASASA",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 190,
+    "nome": "FORÇAS ARMADAS REVOLUCIONÁRIAS DA COLOMBIA",
+    "sigla": "FARC",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 437,
+    "nome": "CARTEL DO CRIME HEDIONDO IV",
+    "sigla": "CCHIV",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 450,
+    "nome": "TESTE ORCRIM 2 23 04 2023",
+    "sigla": "TST",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 510,
+    "nome": "NOVO 03/05/2023",
+    "sigla": "03/05/2023",
+    "situacao": "Ativo"
+  },
+  {
+    "id": 291,
+    "nome": "CARTEL DE JUAREZ",
+    "sigla": "MEX",
+    "situacao": "Inativo"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nome": "ACRE",
+    "sigla": "AC"
+  },
+  {
+    "id": 3,
+    "nome": "AMAPÁ",
+    "sigla": "AP"
+  },
+  {
+    "id": 2,
+    "nome": "AMAZONAS",
+    "sigla": "AM"
+  },
+  {
+    "id": 4,
+    "nome": "PARÁ",
+    "sigla": "PA"
+  },
+  {
+    "id": 5,
+    "nome": "RONDÔNIA",
+    "sigla": "RO"
+  },
+  {
+    "id": 6,
+    "nome": "RORAIMA",
+    "sigla": "RR"
+  },
+  {
+    "id": 7,
+    "nome": "TOCANTINS",
+    "sigla": "TO"
+  },
+  {
+    "id": 8,
+    "nome": "ALAGOAS",
+    "sigla": "AL"
+  },
+  {
+    "id": 9,
+    "nome": "BAHIA",
+    "sigla": "BA"
+  },
+  {
+    "id": 10,
+    "nome": "CEARÁ",
+    "sigla": "CE"
+  },
+  {
+    "id": 11,
+    "nome": "MARANHÃO",
+    "sigla": "MA"
+  },
+  {
+    "id": 12,
+    "nome": "PARAÍBA",
+    "sigla": "PB"
+  },
+  {
+    "id": 13,
+    "nome": "PERNAMBUCO",
+    "sigla": "PE"
+  },
+  {
+    "id": 14,
+    "nome": "PIAUÍ",
+    "sigla": "PI"
+  },
+  {
+    "id": 15,
+    "nome": "RIO GRANDE DO NORTE",
+    "sigla": "RN"
+  },
+  {
+    "id": 16,
+    "nome": "SERGIPE",
+    "sigla": "SE"
+  },
+  {
+    "id": 17,
+    "nome": "GOIÁS",
+    "sigla": "GO"
+  },
+  {
+    "id": 18,
+    "nome": "MATO GROSSO DO SUL",
+    "sigla": "MS"
+  },
+  {
+    "id": 19,
+    "nome": "MATO GROSSO",
+    "sigla": "MT"
+  },
+  {
+    "id": 27,
+    "nome": "DISTRITO FEDERAL",
+    "sigla": "DF"
+  },
+  {
+    "id": 20,
+    "nome": "ESPÍRITO SANTO",
+    "sigla": "ES"
+  },
+  {
+    "id": 21,
+    "nome": "MINAS GERAIS",
+    "sigla": "MG"
+  },
+  {
+    "id": 22,
+    "nome": "RIO DE JANEIRO",
+    "sigla": "RJ"
+  },
+  {
+    "id": 23,
+    "nome": "SÃO PAULO",
+    "sigla": "SP"
+  },
+  {
+    "id": 24,
+    "nome": "PARANÁ",
+    "sigla": "PR"
+  },
+  {
+    "id": 25,
+    "nome": "RIO GRANDE DO SUL",
+    "sigla": "RS"
+  },
+  {
+    "id": 26,
+    "nome": "SANTA CATARINA",
+    "sigla": "SC"
+  }
+]

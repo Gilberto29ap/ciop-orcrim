@@ -1,0 +1,72 @@
+{
+  "dadosPessoais": {
+    "nome": "ADRIANO BRAGA DO NASCIMENTO",
+    "alcunhas": [
+      {
+        "id": 44448,
+        "alcunha": "NANDINHO"
+      },
+      {
+        "id": 44449,
+        "alcunha": "ADRIANINHO"
+      }
+    ],
+    "dataNascimento": "07/05/1988",
+    "nomeMae": "ADELAIDE CORREA BRAGA",
+    "nomePai": "IVAN DE OLIVEIRA NASCIMENTO",
+    "sexo": {
+      "id": 7,
+      "nome": "Masculino"
+    },
+    "obito": "N",
+    "nacionalidade": {
+      "id": 76,
+      "nome": "Brasil"
+    },
+    "uf": {
+      "id": 2,
+      "nome": "AM",
+      "sigla": "AMAZONAS"
+    },
+    "municipio": {
+      "id": 1302603,
+      "nome": "Manaus"
+    },
+    "dadosPessoaisOrcrim": [
+      {
+        "id": 35310,
+        "idOrcrim": 13,
+        "nomeOrcrim": "PRIMEIRO COMANDO DA CAPITAL",
+        "siglaOrcrim": "PCC",
+        "dataInicio": null,
+        "dataTermino": null,
+        "dataInicioFormatoString": null,
+        "dataTerminoFormatoString": null
+      }
+    ],
+    "documentos": [],
+    "uuid": "d72c5a7f-95cf-4680-84a0-132314200e84"
+  },
+  "dadosOrganizacao": [
+    {
+      "id": 34350,
+      "funcao": {
+        "id": 240,
+        "nome": "MEMBRO",
+        "tipoFuncao": {
+          "id": 220,
+          "nome": "OUTROS (ESPECIFIQUE EM OBSERVAÇÃO)"
+        },
+        "orcrim": {
+          "id": 13,
+          "nome": "PRIMEIRO COMANDO DA CAPITAL",
+          "sigla": "PCC"
+        }
+      }
+    }
+  ],
+  "dadosEndereco": [],
+  "dadosTelefone": [],
+  "dadosVidasPregressas": [],
+  "dadosInformacoesPrisionais": []
+}

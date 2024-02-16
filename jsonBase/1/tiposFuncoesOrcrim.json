@@ -1,0 +1,70 @@
+[
+  {
+    "id": 21,
+    "nome": "Armamento/Bélico"
+  },
+  {
+    "id": 22,
+    "nome": "Inteligência"
+  },
+  {
+    "id": 23,
+    "nome": "Jurídico"
+  },
+  {
+    "id": 24,
+    "nome": "Administrativo"
+  },
+  {
+    "id": 210,
+    "nome": "1ª Linha de Comando"
+  },
+  {
+    "id": 211,
+    "nome": "2ª Linha de Comando"
+  },
+  {
+    "id": 212,
+    "nome": "Assessoria do Comando"
+  },
+  {
+    "id": 213,
+    "nome": "Assistencial"
+  },
+  {
+    "id": 214,
+    "nome": "Cadastral"
+  },
+  {
+    "id": 215,
+    "nome": "Comunicação"
+  },
+  {
+    "id": 216,
+    "nome": "Disciplinar"
+  },
+  {
+    "id": 217,
+    "nome": "Drogas"
+  },
+  {
+    "id": 218,
+    "nome": "Execução das Ordens"
+  },
+  {
+    "id": 219,
+    "nome": "Financeiro"
+  },
+  {
+    "id": 220,
+    "nome": "Outros (Especifique em Observação)"
+  },
+  {
+    "id": 221,
+    "nome": "Tecnologia"
+  },
+  {
+    "id": 449,
+    "nome": "TESTE API"
+  }
+]
