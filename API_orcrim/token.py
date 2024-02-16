@@ -47,3 +47,20 @@ def check_token(token):
   else:
       print("O token expirou.")
       return False
+  
+
+
+
+def autentica(token):
+    if check_token(token):
+        print("Token válido, prosseguindo!")
+        return token
+    else:
+        print("Token não válido.")
+        token = get_token()
+        if check_token(token):
+            print("Novo token válido, prosseguindo!")
+            return token
+        else:
+            print("Falha ao obter um token válido. Por favor, tente novamente.")
+            return None
