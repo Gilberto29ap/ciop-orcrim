@@ -1,0 +1,55 @@
+{
+    "data" : [
+     
+    {
+    "nome": "José do amapá",
+    "alcunhas": [
+    {
+    "alcunha": "zé do açaí",
+    "dataAlcunha": "11/10/2020"
+    }
+    ],
+    "cpfs": [
+    "21606448030"
+    ],
+    "dataNascimento": "12/12/1980",
+    "nomeMae": "Maria boca roxa",
+    "nomePai": "Francisco peconha",
+    "rgs": [
+    {
+    "rg": "324515",
+    "ufRg": {
+    "id": 3,
+    "nome": "AMAPA",
+    "sigla": "AP"
+    }
+    }
+    ],
+    "sexo": {
+    "id": 7,
+    "nome": "Masculino"
+    },
+    "obito": "N",
+    "orcrims": [
+    {
+    "id": 230,
+    "nome": "BONDE DO TERROR",
+    "sigla": "BDT"
+    }
+    ],
+    "nacionalidade": {
+    "id": 76,
+    "nome": "Brasil"
+    },
+    "uf": {
+    "id": 27,
+    "nome": "DISTRITO FEDERAL",
+    "sigla": "DF"
+    },
+    "municipio": {
+    "id": 530010801,
+    "nome": "Brasilia"
+    }
+    }
+    ]
+    }

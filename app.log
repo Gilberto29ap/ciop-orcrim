@@ -3,3 +3,15 @@
 2024-02-03 10:44:09,557 - root - INFO - Token de acesso atualizado com sucesso.
 2024-02-16 10:18:39,832 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
 2024-02-16 10:18:40,500 - root - INFO - Token de acesso atualizado com sucesso.
+2024-02-23 10:20:18,311 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-02-23 10:20:18,690 - root - ERROR - Erro ao solicitar token de acesso: 401 Client Error: Unauthorized for url: https://hmlsegurancaorcrim.mj.gov.br/auth/realms/hmlorcrim/protocol/openid-connect/token
+2024-02-23 10:40:37,763 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-02-23 10:40:38,121 - root - ERROR - Erro ao solicitar token de acesso: 401 Client Error: Unauthorized for url: https://hmlsegurancaorcrim.mj.gov.br/auth/realms/hmlorcrim/protocol/openid-connect/token
+2024-02-23 10:41:19,362 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-02-23 10:41:19,716 - root - INFO - Token de acesso atualizado com sucesso.
+2024-02-23 11:08:06,694 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-02-23 11:08:07,272 - root - ERROR - Erro ao solicitar token de acesso: 400 Client Error: Bad Request for url: https://hmlsegurancaorcrim.mj.gov.br/auth/realms/hmlorcrim/protocol/openid-connect/token
+2024-02-23 11:09:02,008 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-02-23 11:09:02,385 - root - INFO - Token de acesso atualizado com sucesso.
+2024-02-23 11:16:02,967 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-02-23 11:16:03,349 - root - INFO - Token de acesso atualizado com sucesso.

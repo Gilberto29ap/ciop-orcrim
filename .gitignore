@@ -1,2 +1,5 @@
 venv/
 .venv/
+config/secrets.py
+config\__pycache__
+API_orcrim\__pycache__

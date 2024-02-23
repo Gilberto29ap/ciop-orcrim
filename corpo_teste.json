@@ -1,0 +1,54 @@
+{
+    "data": [
+    {
+    "nome": "Carlos André dedf Exemplo",
+    "alcunhas": [
+    {
+    "alcunha": "Carlitos Ex",
+    "dataAlcunha": "12/01/24"
+    }
+    ],
+    "cpfs": [
+    "52465138901"
+    ],
+    "dataNascimento": "12/12/1984",
+    "nomeMae": "Maria das nevessdf Oliveira",
+    "nomePai": "Francisco Martelo Sousa",
+    "rgs": [
+    {
+    "rg": "15111151",
+    "ufRg": {
+    "id": 27,
+    "nome": "DISTRITO FEDERAL",
+    "sigla": "DF"
+    }
+    }
+    ],
+    "sexo": {
+        "id": 7,
+        "nome": "Masculino"
+    },
+    "obito": "N",
+    "orcrims": [
+        {
+            "id": 230,
+            "nome": "BONDE DO TERROR",
+            "sigla": "BDT"
+        }
+    ],
+    "nacionalidade": {
+        "id": 76,
+        "nome": "Brasil"
+    },
+    "uf": {
+        "id": 27,
+        "nome": "DISTRITO FEDERAL",
+        "sigla": "DF"
+    },
+    "municipio": {
+    "id": 530010801,
+    "nome": "Brasilia"
+    }
+    }
+    ]
+    }
