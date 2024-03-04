@@ -44,11 +44,11 @@ class ApiClient:
             response = requests.post(url, headers=headers, json=dados_json)
             response.raise_for_status()  # Isso vai levantar uma exceção para respostas 4xx/5xx
             logging.info("Personalidade incluída com sucesso.")
-            return response.json()  # Retorna a resposta JSON da API
+            return response  # Retorna a resposta JSON da API
         except requests.HTTPError as http_err:
             logging.error(f"Erro HTTP ao fazer a requisição POST: {http_err}")
         except Exception as e:
             logging.error(f"Erro ao fazer a requisição POST: {e}")
-        return None
+        return response
 
 

@@ -1,5 +1,6 @@
 import json
 import logging
+from API_orcrim.api_client import ApiClient
 
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -141,7 +142,7 @@ class Pessoa:
 
         # Para listas, mantém a lógica de verificação e criação a partir dos dados fornecidos.
         self.alcunhas = [self.Alcunhas(a['alcunha'], a['dataAlcunha']) for a in alcunhas] if alcunhas else []
-        self.cpfs = [self.Cpfs(c['cpf']) for c in cpfs] if cpfs else []
+        self.cpfs = [self.Cpfs(c) for c in cpfs] if cpfs else []
         self.rgs = [self.Rgs(rg['rg'], self.Uf(rg['ufRg']['id'], rg['ufRg']['nome'], rg['ufRg']['sigla'])) for rg in rgs] if rgs and self.uf else []
         self.orcrim = [self.Orcrim(o['id'], o['nome'], o['sigla']) for o in orcrim] if orcrim else []
 
@@ -154,7 +155,9 @@ class Pessoa:
             dict: Um dicionário contendo todos os atributos da pessoa e seus valores,
             incluindo os detalhes das entidades relacionadas como listas de dicionários.
         """
-        pessoa_dict = {
+        pessoa_dict = {"data":
+        [
+        {
         "nome": self.nome,
         "dataNascimento": self.dataNascimento,
         "nomeMae": self.nomeMae,
@@ -165,9 +168,11 @@ class Pessoa:
         "sexo": self.sexo.to_dict() if self.sexo else None,
         "nacionalidade": self.nacionalidade.to_dict() if self.nacionalidade else None,
         "alcunhas": [a.to_dict() for a in self.alcunhas],
-        "cpfs": [c.to_dict() for c in self.cpfs],
+        "cpfs": [c.to_dict()["cpf"] for c in self.cpfs],
         "rgs": [r.to_dict() for r in self.rgs],
         "orcrims": [o.to_dict() for o in self.orcrim],
+    }
+    ]
     }
         return pessoa_dict
 
@@ -181,3 +186,10 @@ class Pessoa:
         """
 
         return json.dumps({"data": [self.to_dict()]}, ensure_ascii=False, indent=2)
+    
+    def post_personalidade(self):
+        api = ApiClient()
+        corpo_json= self.to_dict()
+        print(corpo_json)
+        resposta = api.post_personalidade(corpo_json)
+        return resposta
