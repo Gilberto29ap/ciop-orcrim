@@ -129,10 +129,10 @@ class Pessoa:
         """
         logging.info(f"Criando nova instância de Pessoa: {nome}") 
         self.nome = nome
-        self.dataNascimento = dataNascimento if dataNascimento else 'Data Desconhecida'
-        self.nomeMae = nomeMae if nomeMae else 'Desconhecido'
-        self.nomePai = nomePai if nomePai else 'Desconhecido'
-        self.obito = obito if obito is not None else "N"  # Assume False se obito não for fornecido
+        self.dataNascimento = dataNascimento if dataNascimento else ''
+        self.nomeMae = nomeMae if nomeMae else ''
+        self.nomePai = nomePai if nomePai else ''
+        self.obito = obito if obito is not None else ''  
 
         # Para os atributos compostos por outras classes, verifica a existência dos dados antes da criação.
         self.municipio = self.Municipio(municipio_id, municipio_nome) if municipio_id and municipio_nome else None
@@ -162,11 +162,11 @@ class Pessoa:
         "dataNascimento": self.dataNascimento,
         "nomeMae": self.nomeMae,
         "nomePai": self.nomePai,
-        "obito": self.obito,
-        "municipio": self.municipio.to_dict() if self.municipio else None,
-        "uf": self.uf.to_dict() if self.uf else None,
-        "sexo": self.sexo.to_dict() if self.sexo else None,
-        "nacionalidade": self.nacionalidade.to_dict() if self.nacionalidade else None,
+        "obito": self.obito if self.obito else "",
+        "municipio": self.municipio.to_dict() if self.municipio else {},
+        "uf": self.uf.to_dict() if self.uf else {},
+        "sexo": self.sexo.to_dict() if self.sexo else {},
+        "nacionalidade": self.nacionalidade.to_dict() if self.nacionalidade else {},
         "alcunhas": [a.to_dict() for a in self.alcunhas],
         "cpfs": [c.to_dict()["cpf"] for c in self.cpfs],
         "rgs": [r.to_dict() for r in self.rgs],
@@ -180,6 +180,5 @@ class Pessoa:
     def post_personalidade(self):
         api = ApiClient()
         corpo_json= self.to_dict()
-        print(corpo_json)
         resposta = api.post_personalidade(corpo_json)
         return resposta
