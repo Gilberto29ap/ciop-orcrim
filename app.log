@@ -237,3 +237,43 @@
 2024-03-04 17:47:35,565 - root - INFO - Token de acesso atualizado com sucesso.
 2024-03-04 17:47:35,567 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
 2024-03-04 17:47:36,176 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 19:53:30,247 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 19:53:30,862 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 19:53:30,864 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 19:53:33,775 - root - INFO - Personalidade incluída com sucesso.
+2024-03-04 19:57:29,440 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 19:57:29,919 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 19:57:29,919 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 19:57:31,848 - root - INFO - Personalidade incluída com sucesso.
+2024-03-04 19:59:14,267 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 19:59:14,904 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 19:59:14,904 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 19:59:15,961 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 19:59:52,431 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 19:59:52,949 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 19:59:52,949 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 19:59:54,615 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 20:00:19,519 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 20:00:20,067 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 20:00:20,070 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 20:00:21,648 - root - INFO - Personalidade incluída com sucesso.
+2024-03-04 20:01:41,878 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 20:01:42,420 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 20:01:42,420 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 20:01:44,051 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 20:03:12,650 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 20:03:13,145 - root - ERROR - Erro ao solicitar token de acesso: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-03-04 20:03:29,928 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 20:04:05,245 - root - ERROR - Erro ao solicitar token de acesso: 504 Server Error: Gateway Time-out for url: https://hmlsegurancaorcrim.mj.gov.br/auth/realms/hmlorcrim/protocol/openid-connect/token
+2024-03-04 20:05:37,113 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 20:05:38,060 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 20:05:38,062 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 20:05:39,797 - root - INFO - Personalidade incluída com sucesso.
+2024-03-04 20:06:24,003 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 20:06:25,033 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 20:06:25,033 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 20:06:26,697 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 20:07:10,141 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-04 20:07:10,688 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-04 20:07:10,690 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-04 20:07:12,542 - root - INFO - Personalidade incluída com sucesso.

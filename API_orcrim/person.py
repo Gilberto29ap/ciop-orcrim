@@ -176,16 +176,6 @@ class Pessoa:
     }
         return pessoa_dict
 
-    def to_json(self):
-        """
-        Serializa a pessoa e seus atributos para uma string JSON.
-
-        Retorna:
-            str: Uma representação JSON da pessoa e seus atributos, incluindo as entidades
-            relacionadas.
-        """
-
-        return json.dumps({"data": [self.to_dict()]}, ensure_ascii=False, indent=2)
     
     def post_personalidade(self):
         api = ApiClient()
