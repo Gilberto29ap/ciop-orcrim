@@ -52,3 +52,25 @@ class ApiClient:
         return response
 
 
+    def get_personalidade(self, uuid=None):
+
+        logging.info(f"Iniciando requisição GET de personalidade, uuid: {uuid}")
+
+        url = f"{self.base_url}/api/v1/personalidade/{uuid}"
+        token_de_autorizacao = TokenManager().get_access_token()
+
+        headers = {
+        'accept': 'application/json',
+        'Authorization': f'Bearer {token_de_autorizacao}'
+        }
+
+        try:
+            response = requests.post(url, headers=headers)
+            response.raise_for_status()  # Isso vai levantar uma exceção para respostas 4xx/5xx
+            logging.info("Personalidade incluída com sucesso.")
+            return response  # Retorna a resposta JSON da API
+        except requests.HTTPError as http_err:
+            logging.error(f"Erro HTTP ao fazer a requisição POST: {http_err}")
+        except Exception as e:
+            logging.error(f"Erro ao fazer a requisição POST: {e}")
+        return response

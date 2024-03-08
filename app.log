@@ -390,3 +390,39 @@
 2024-03-05 13:24:36,805 - root - INFO - Token de acesso atualizado com sucesso.
 2024-03-05 13:24:36,807 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
 2024-03-05 13:24:36,809 - root - ERROR - Erro ao fazer a requisição POST: Object of type set is not JSON serializable
+2024-03-05 13:25:25,702 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:25:26,106 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:25:26,107 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:25:27,285 - root - INFO - Personalidade incluída com sucesso.
+2024-03-05 13:25:43,612 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:25:44,018 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:25:44,018 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:25:45,285 - root - INFO - Personalidade incluída com sucesso.
+2024-03-05 13:27:06,861 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:27:07,369 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:27:07,369 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:27:08,688 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:27:15,412 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:27:15,860 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:27:15,863 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:27:17,360 - root - INFO - Personalidade incluída com sucesso.
+2024-03-05 13:28:03,317 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:28:03,789 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:28:03,791 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:28:05,627 - root - INFO - Personalidade incluída com sucesso.
+2024-03-05 13:29:58,956 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:29:59,370 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:29:59,387 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:30:00,706 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:30:03,853 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:30:04,283 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:30:04,284 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:30:05,600 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:30:45,477 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:30:45,969 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:30:45,972 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:30:47,407 - root - INFO - Personalidade incluída com sucesso.
+2024-03-05 13:31:07,141 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-05 13:31:07,644 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-05 13:31:07,644 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
+2024-03-05 13:31:09,224 - root - INFO - Personalidade incluída com sucesso.
