@@ -458,3 +458,54 @@
 2024-03-08 12:14:44,529 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
 2024-03-08 12:14:44,901 - root - INFO - Token de acesso atualizado com sucesso.
 2024-03-08 12:14:45,274 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:17:43,328 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 12:17:43,328 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:17:43,762 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:17:44,317 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 13:46:58,777 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 13:46:58,777 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 13:46:59,208 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 13:46:59,752 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 13:47:49,830 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 13:47:49,830 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 13:47:50,202 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 13:47:50,731 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 14:03:36,153 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 14:03:36,154 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 14:03:36,550 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 14:03:37,091 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 14:17:22,041 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 14:17:22,041 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 14:17:22,432 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 14:17:22,938 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 14:17:49,216 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 14:17:49,612 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 14:17:49,615 - root - INFO - Iniciando POST de telefone para 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 14:17:49,986 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade/03648ff0-55f0-4c45-a83d-a7180180b415/telefones
+2024-03-08 14:47:25,983 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 14:47:26,446 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 14:47:26,447 - root - INFO - Iniciando POST de telefone para 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 14:47:26,894 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade/03648ff0-55f0-4c45-a83d-a7180180b415/telefones
+2024-03-08 14:48:44,937 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 14:48:45,370 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 14:48:45,377 - root - INFO - Iniciando POST de telefone para 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 14:48:45,986 - root - INFO - Telefone incluído com sucesso.
+2024-03-08 14:48:57,320 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 14:48:57,712 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 14:48:57,714 - root - INFO - Iniciando POST de telefone para 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 14:48:58,676 - root - INFO - Telefone incluído com sucesso.
+2024-03-08 14:51:04,432 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 14:51:04,823 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 14:51:04,824 - root - INFO - Iniciando POST de telefone para 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 14:51:05,783 - root - INFO - Telefone incluído com sucesso.
+2024-03-08 15:12:44,342 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 15:12:44,342 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 15:12:44,744 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 15:12:49,290 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 15:13:00,712 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 15:13:06,480 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 15:13:06,481 - root - INFO - Iniciando POST de alcunha para 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 15:13:43,229 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 15:13:46,933 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 15:13:46,936 - root - INFO - Iniciando POST de alcunha para 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 15:13:50,805 - root - ERROR - Erro HTTP ao fazer a requisição POST: 400 Client Error: Bad Request for url: https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade/03648ff0-55f0-4c45-a83d-a7180180b415/alcunhas
