@@ -65,7 +65,7 @@ class ApiClient:
         }
 
         try:
-            response = requests.post(url, headers=headers)
+            response = requests.get(url, headers=headers)
             response.raise_for_status()  # Isso vai levantar uma exceção para respostas 4xx/5xx
             logging.info("Personalidade incluída com sucesso.")
             return response  # Retorna a resposta JSON da API

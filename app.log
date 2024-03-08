@@ -426,3 +426,35 @@
 2024-03-05 13:31:07,644 - root - INFO - Token de acesso atualizado com sucesso.
 2024-03-05 13:31:07,644 - root - INFO - Iniciando requisição POST para https://hmlorcrim.mj.gov.br/backend-orcrim/api/v1/personalidade
 2024-03-05 13:31:09,224 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:02:11,886 - root - INFO - Iniciando requisição GET de personalidade, uuid: 20b39ef2-4f3f-4702-8e03-0c245f19ac7f
+2024-03-08 12:02:11,886 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:02:12,321 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:02:12,988 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:03:49,513 - root - INFO - Iniciando requisição GET de personalidade, uuid: 20b39ef2-4f3f-4702-8e03-0c245f19ac7f
+2024-03-08 12:03:49,514 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:03:49,892 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:03:50,302 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:07:03,389 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 12:07:03,390 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:07:03,781 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:07:04,147 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:08:02,869 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 12:08:02,869 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:08:03,273 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:08:03,685 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:08:11,492 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 12:08:11,492 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:08:11,844 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:08:12,212 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:08:28,083 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 12:08:28,083 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:08:28,447 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:08:28,832 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:14:32,006 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 12:14:32,007 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:14:32,408 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:14:32,772 - root - INFO - Personalidade incluída com sucesso.
+2024-03-08 12:14:44,529 - root - INFO - Iniciando requisição GET de personalidade, uuid: 03648ff0-55f0-4c45-a83d-a7180180b415
+2024-03-08 12:14:44,529 - root - INFO - Token de acesso expirado ou ausente. Solicitando um novo.
+2024-03-08 12:14:44,901 - root - INFO - Token de acesso atualizado com sucesso.
+2024-03-08 12:14:45,274 - root - INFO - Personalidade incluída com sucesso.
